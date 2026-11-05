@@ -1,8 +1,12 @@
 [
   { "user": "宋逸城", "pass": "ganteng" },
-  { "user": "林婉玉", "pass": "cantik" }
-
-
-
-
+  { "user": "林婉玉", "pass": "cantik" },
+  {
+    "user": "babi",
+    "pass": "gila"
+  },
+  {
+    "user": "kontol",
+    "pass": "memek"
+  }
 ]
