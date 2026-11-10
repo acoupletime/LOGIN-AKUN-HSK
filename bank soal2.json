@@ -1,1 +1,752 @@
-1
+[
+  {
+    "hanzi": "爱",
+    "pinyin": "",
+    "answer": "ài"
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "",
+    "answer": "bā"
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "",
+    "answer": "bàba"
+  },
+  {
+    "hanzi": "杯子",
+    "pinyin": "",
+    "answer": "bēizi"
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "",
+    "answer": "Běijīng"
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "",
+    "answer": "běn"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "",
+    "answer": "bù"
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "",
+    "answer": "bú kèqi"
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "",
+    "answer": "cài"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "",
+    "answer": "chá"
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "",
+    "answer": "chī"
+  },
+  {
+    "hanzi": "出租车",
+    "pinyin": "",
+    "answer": "chūzūchē"
+  },
+  {
+    "hanzi": "打电话",
+    "pinyin": "",
+    "answer": "dǎ diànhuà"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "",
+    "answer": "dà"
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "",
+    "answer": "de"
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "",
+    "answer": "diǎn"
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "",
+    "answer": "diànnǎo"
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "",
+    "answer": "diànshì"
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "",
+    "answer": "diànyǐng"
+  },
+  {
+    "hanzi": "东西",
+    "pinyin": "",
+    "answer": "dōngxi"
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "",
+    "answer": "dōu"
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "",
+    "answer": "dú"
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "",
+    "answer": "duìbuqǐ"
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "",
+    "answer": "duō"
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "",
+    "answer": "duōshao"
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "",
+    "answer": "érzi"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "",
+    "answer": "èr"
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "",
+    "answer": "fàndiàn"
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "",
+    "answer": "fēijī"
+  },
+  {
+    "hanzi": "分钟",
+    "pinyin": "",
+    "answer": "fēnzhōng"
+  },
+  {
+    "hanzi": "高兴",
+    "pinyin": "",
+    "answer": "gāoxìng"
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "",
+    "answer": "gè"
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "",
+    "answer": "gōngzuò"
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "",
+    "answer": "gǒu"
+  },
+  {
+    "hanzi": "汉语",
+    "pinyin": "",
+    "answer": "Hànyǔ"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "",
+    "answer": "hǎo"
+  },
+  {
+    "hanzi": "号",
+    "pinyin": "",
+    "answer": "hào"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "",
+    "answer": "hē"
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "",
+    "answer": "hé"
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "",
+    "answer": "hěn"
+  },
+  {
+    "hanzi": "后面",
+    "pinyin": "",
+    "answer": "hòumiàn"
+  },
+  {
+    "hanzi": "回",
+    "pinyin": "",
+    "answer": "huí"
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "",
+    "answer": "huì"
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "",
+    "answer": "jǐ"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "",
+    "answer": "jiā"
+  },
+  {
+    "hanzi": "叫",
+    "pinyin": "",
+    "answer": "jiào"
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "",
+    "answer": "jīntiān"
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "",
+    "answer": "jiǔ"
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "",
+    "answer": "kāi"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "",
+    "answer": "kàn"
+  },
+  {
+    "hanzi": "看见",
+    "pinyin": "",
+    "answer": "kànjiàn"
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "",
+    "answer": "kuài"
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "",
+    "answer": "lái"
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "",
+    "answer": "lǎoshī"
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "",
+    "answer": "le"
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "",
+    "answer": "lěng"
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "",
+    "answer": "lǐ"
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "",
+    "answer": "liù"
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "",
+    "answer": "māma"
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "",
+    "answer": "ma"
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "",
+    "answer": "mǎi"
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "",
+    "answer": "māo"
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "",
+    "answer": "méi guānxi"
+  },
+  {
+    "hanzi": "没有",
+    "pinyin": "",
+    "answer": "méiyǒu"
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "",
+    "answer": "mǐfàn"
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "",
+    "answer": "míngtiān"
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "",
+    "answer": "míngzi"
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "",
+    "answer": "nǎ"
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "",
+    "answer": "nǎr"
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "",
+    "answer": "nà"
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "",
+    "answer": "ne"
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "",
+    "answer": "néng"
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "",
+    "answer": "nǐ"
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "",
+    "answer": "nián"
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "",
+    "answer": "nǚ'ér"
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "",
+    "answer": "péngyou"
+  },
+  {
+    "hanzi": "漂亮",
+    "pinyin": "",
+    "answer": "piàoliang"
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "",
+    "answer": "píngguǒ"
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "",
+    "answer": "qī"
+  },
+  {
+    "hanzi": "前面",
+    "pinyin": "",
+    "answer": "qiánmiàn"
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "",
+    "answer": "qián"
+  },
+  {
+    "hanzi": "请",
+    "pinyin": "",
+    "answer": "qǐng"
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "",
+    "answer": "qù"
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "",
+    "answer": "rè"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "",
+    "answer": "rén"
+  },
+  {
+    "hanzi": "认识",
+    "pinyin": "",
+    "answer": "rènshi"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "",
+    "answer": "sān"
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "",
+    "answer": "shāngdiàn"
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "",
+    "answer": "shàng"
+  },
+  {
+    "hanzi": "上午",
+    "pinyin": "",
+    "answer": "shàngwǔ"
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "",
+    "answer": "shǎo"
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "",
+    "answer": "shéi"
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "",
+    "answer": "shénme"
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "",
+    "answer": "shí"
+  },
+  {
+    "hanzi": "时候",
+    "pinyin": "",
+    "answer": "shíhou"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "",
+    "answer": "shì"
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "",
+    "answer": "shū"
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "",
+    "answer": "shuǐ"
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "",
+    "answer": "shuǐguǒ"
+  },
+  {
+    "hanzi": "睡觉",
+    "pinyin": "",
+    "answer": "shuìjiào"
+  },
+  {
+    "hanzi": "说话",
+    "pinyin": "",
+    "answer": "shuōhuà"
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "",
+    "answer": "sì"
+  },
+  {
+    "hanzi": "岁",
+    "pinyin": "",
+    "answer": "suì"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "",
+    "answer": "tā"
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "",
+    "answer": "tā"
+  },
+  {
+    "hanzi": "太",
+    "pinyin": "",
+    "answer": "tài"
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "",
+    "answer": "tiānqì"
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "",
+    "answer": "tīng"
+  },
+  {
+    "hanzi": "同学",
+    "pinyin": "",
+    "answer": "tóngxué"
+  },
+  {
+    "hanzi": "喂",
+    "pinyin": "",
+    "answer": "wèi"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "",
+    "answer": "wǒ"
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "",
+    "answer": "wǒmen"
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "",
+    "answer": "wǔ"
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "",
+    "answer": "xǐhuan"
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "",
+    "answer": "xià"
+  },
+  {
+    "hanzi": "下午",
+    "pinyin": "",
+    "answer": "xiàwǔ"
+  },
+  {
+    "hanzi": "下雨",
+    "pinyin": "",
+    "answer": "xiàyǔ"
+  },
+  {
+    "hanzi": "先生",
+    "pinyin": "",
+    "answer": "xiānsheng"
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "",
+    "answer": "xiànzài"
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "",
+    "answer": "xiǎng"
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "",
+    "answer": "xiǎo"
+  },
+  {
+    "hanzi": "小姐",
+    "pinyin": "",
+    "answer": "xiǎojiě"
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "",
+    "answer": "xiē"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "",
+    "answer": "xiě"
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "",
+    "answer": "xièxie"
+  },
+  {
+    "hanzi": "星期",
+    "pinyin": "",
+    "answer": "xīngqī"
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "",
+    "answer": "xuésheng"
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "",
+    "answer": "xuéxí"
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "",
+    "answer": "xuéxiào"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "",
+    "answer": "yī"
+  },
+  {
+    "hanzi": "一点儿",
+    "pinyin": "",
+    "answer": "yìdiǎnr"
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "",
+    "answer": "yīfu"
+  },
+  {
+    "hanzi": "医生",
+    "pinyin": "",
+    "answer": "yīshēng"
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "",
+    "answer": "yīyuàn"
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "",
+    "answer": "yǐzi"
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "",
+    "answer": "yǒu"
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "",
+    "answer": "yuè"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "",
+    "answer": "zàijiàn"
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "",
+    "answer": "zài"
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "",
+    "answer": "zěnme"
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "",
+    "answer": "zěnmeyàng"
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "",
+    "answer": "zhè"
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "",
+    "answer": "Zhōngguó"
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "",
+    "answer": "zhōngwǔ"
+  },
+  {
+    "hanzi": "住",
+    "pinyin": "",
+    "answer": "zhù"
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "",
+    "answer": "zhuōzi"
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "",
+    "answer": "zì"
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "",
+    "answer": "zuótiān"
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "",
+    "answer": "zuò"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "",
+    "answer": "zuò"
+  }
+]
