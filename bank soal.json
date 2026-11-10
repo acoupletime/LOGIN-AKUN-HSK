@@ -1,53 +1,752 @@
 [
-  { "hanzi": "学", "pinyin": "xué", "answer": "belajar" },
-  { "hanzi": "说", "pinyin": "shuō", "answer": "berbicara" },
-  { "hanzi": "看", "pinyin": "kàn", "answer": "melihat" },
-  { "hanzi": "听", "pinyin": "tīng", "answer": "mendengar" },
-  { "hanzi": "写", "pinyin": "xiě", "answer": "menulis" },
-
-  { "hanzi": "读", "pinyin": "dú", "answer": "membaca" },
-  { "hanzi": "吃", "pinyin": "chī", "answer": "makan" },
-  { "hanzi": "喝", "pinyin": "hē", "answer": "minum" },
-  { "hanzi": "买", "pinyin": "mǎi", "answer": "membeli" },
-  { "hanzi": "卖", "pinyin": "mài", "answer": "menjual" },
-
-  { "hanzi": "走", "pinyin": "zǒu", "answer": "berjalan" },
-  { "hanzi": "跑", "pinyin": "pǎo", "answer": "berlari" },
-  { "hanzi": "坐", "pinyin": "zuò", "answer": "duduk" },
-  { "hanzi": "站", "pinyin": "zhàn", "answer": "berdiri" },
-  { "hanzi": "睡", "pinyin": "shuì", "answer": "tidur" },
-{ "hanzi": "学", "pinyin": "xué", "answer": "belajar" },
-  { "hanzi": "说", "pinyin": "shuō", "answer": "berbicara" },
-  { "hanzi": "看", "pinyin": "kàn", "answer": "melihat" },
-  { "hanzi": "听", "pinyin": "tīng", "answer": "mendengar" },
-  { "hanzi": "写", "pinyin": "xiě", "answer": "menulis" },
-
-  { "hanzi": "读", "pinyin": "dú", "answer": "membaca" },
-  { "hanzi": "吃", "pinyin": "chī", "answer": "makan" },
-  { "hanzi": "喝", "pinyin": "hē", "answer": "minum" },
-  { "hanzi": "买", "pinyin": "mǎi", "answer": "membeli" },
-  { "hanzi": "卖", "pinyin": "mài", "answer": "menjual" },
-
-  { "hanzi": "走", "pinyin": "zǒu", "answer": "berjalan" },
-  { "hanzi": "跑", "pinyin": "pǎo", "answer": "berlari" },
-  { "hanzi": "坐", "pinyin": "zuò", "answer": "duduk" },
-  { "hanzi": "站", "pinyin": "zhàn", "answer": "berdiri" },
-  { "hanzi": "睡", "pinyin": "shuì", "answer": "tidur" },
-{ "hanzi": "学", "pinyin": "xué", "answer": "belajar" },
-  { "hanzi": "说", "pinyin": "shuō", "answer": "berbicara" },
-  { "hanzi": "看", "pinyin": "kàn", "answer": "melihat" },
-  { "hanzi": "听", "pinyin": "tīng", "answer": "mendengar" },
-  { "hanzi": "写", "pinyin": "xiě", "answer": "menulis" },
-
-  { "hanzi": "读", "pinyin": "dú", "answer": "membaca" },
-  { "hanzi": "吃", "pinyin": "chī", "answer": "makan" },
-  { "hanzi": "喝", "pinyin": "hē", "answer": "minum" },
-  { "hanzi": "买", "pinyin": "mǎi", "answer": "membeli" },
-  { "hanzi": "卖", "pinyin": "mài", "answer": "menjual" },
-
-  { "hanzi": "走", "pinyin": "zǒu", "answer": "berjalan" },
-  { "hanzi": "跑", "pinyin": "pǎo", "answer": "berlari" },
-  { "hanzi": "坐", "pinyin": "zuò", "answer": "duduk" },
-  { "hanzi": "站", "pinyin": "zhàn", "answer": "berdiri" },
-  { "hanzi": "睡", "pinyin": "shuì", "answer": "tidur" }
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "answer": "cinta, suka"
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "answer": "delapan"
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "answer": "ayah"
+  },
+  {
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "answer": "gelas"
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "Běijīng",
+    "answer": "Beijing"
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "answer": "kata penggolong buku"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "answer": "tidak"
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "bú kèqi",
+    "answer": "sama-sama"
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "answer": "sayur, masakan"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "answer": "teh"
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "answer": "makan"
+  },
+  {
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "answer": "taksi"
+  },
+  {
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "answer": "menelepon"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "answer": "besar"
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "answer": "partikel kepunyaan"
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "answer": "jam, sedikit"
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "answer": "komputer"
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "answer": "televisi"
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "answer": "film"
+  },
+  {
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "answer": "barang"
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "answer": "semua"
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "answer": "membaca"
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duìbuqǐ",
+    "answer": "maaf"
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "answer": "banyak"
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "answer": "berapa"
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "answer": "anak laki-laki"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "answer": "dua"
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "fàndiàn",
+    "answer": "restoran, hotel"
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "answer": "pesawat"
+  },
+  {
+    "hanzi": "分钟",
+    "pinyin": "fēnzhōng",
+    "answer": "menit"
+  },
+  {
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "answer": "senang"
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "answer": "kata penggolong umum"
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "answer": "pekerjaan, bekerja"
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "answer": "anjing"
+  },
+  {
+    "hanzi": "汉语",
+    "pinyin": "Hànyǔ",
+    "answer": "bahasa Mandarin"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "answer": "baik"
+  },
+  {
+    "hanzi": "号",
+    "pinyin": "hào",
+    "answer": "tanggal, nomor"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "answer": "minum"
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "answer": "dan"
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "answer": "sangat"
+  },
+  {
+    "hanzi": "后面",
+    "pinyin": "hòumiàn",
+    "answer": "belakang"
+  },
+  {
+    "hanzi": "回",
+    "pinyin": "huí",
+    "answer": "kembali"
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "answer": "bisa, akan"
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "answer": "berapa"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "answer": "rumah, keluarga"
+  },
+  {
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "answer": "dipanggil, bernama"
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "answer": "hari ini"
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "answer": "sembilan"
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "answer": "membuka, mengemudi"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "answer": "melihat"
+  },
+  {
+    "hanzi": "看见",
+    "pinyin": "kànjiàn",
+    "answer": "melihat"
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "answer": "yuan, potong"
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "answer": "datang"
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "answer": "guru"
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "answer": "partikel perubahan"
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "answer": "dingin"
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "answer": "di dalam"
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "answer": "enam"
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "answer": "ibu"
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "answer": "partikel pertanyaan"
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "answer": "membeli"
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "answer": "kucing"
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méi guānxi",
+    "answer": "tidak apa-apa"
+  },
+  {
+    "hanzi": "没有",
+    "pinyin": "méiyǒu",
+    "answer": "tidak punya"
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "answer": "nasi"
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "answer": "besok"
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "answer": "nama"
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "answer": "yang mana"
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "answer": "di mana"
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "answer": "itu"
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "answer": "partikel pertanyaan"
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "answer": "bisa"
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "answer": "kamu"
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "answer": "tahun"
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "nǚ'ér",
+    "answer": "anak perempuan"
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "answer": "teman"
+  },
+  {
+    "hanzi": "漂亮",
+    "pinyin": "piàoliang",
+    "answer": "cantik"
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "answer": "apel"
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "answer": "tujuh"
+  },
+  {
+    "hanzi": "前面",
+    "pinyin": "qiánmiàn",
+    "answer": "depan"
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "answer": "uang"
+  },
+  {
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "answer": "silakan, mengundang"
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "answer": "pergi"
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "answer": "panas"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "answer": "orang"
+  },
+  {
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "answer": "mengenal"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "answer": "tiga"
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "answer": "toko"
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "answer": "atas"
+  },
+  {
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "answer": "pagi"
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "answer": "sedikit"
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "answer": "siapa"
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "answer": "apa"
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "answer": "sepuluh"
+  },
+  {
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "answer": "waktu"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "answer": "adalah"
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "answer": "buku"
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "answer": "air"
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "answer": "buah"
+  },
+  {
+    "hanzi": "睡觉",
+    "pinyin": "shuìjiào",
+    "answer": "tidur"
+  },
+  {
+    "hanzi": "说话",
+    "pinyin": "shuōhuà",
+    "answer": "berbicara"
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "answer": "empat"
+  },
+  {
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "answer": "usia, tahun"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "answer": "dia (laki-laki)"
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "answer": "dia (perempuan)"
+  },
+  {
+    "hanzi": "太",
+    "pinyin": "tài",
+    "answer": "terlalu, sangat"
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "answer": "cuaca"
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "answer": "mendengar"
+  },
+  {
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "answer": "teman sekolah"
+  },
+  {
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "answer": "halo (telepon)"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "answer": "saya"
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "answer": "kami, kita"
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "answer": "lima"
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuan",
+    "answer": "suka"
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "answer": "bawah"
+  },
+  {
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "answer": "siang, sore"
+  },
+  {
+    "hanzi": "下雨",
+    "pinyin": "xiàyǔ",
+    "answer": "hujan"
+  },
+  {
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "answer": "tuan"
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "answer": "sekarang"
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "answer": "ingin, berpikir"
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "answer": "kecil"
+  },
+  {
+    "hanzi": "小姐",
+    "pinyin": "xiǎojiě",
+    "answer": "nona"
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "answer": "beberapa"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "answer": "menulis"
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "answer": "terima kasih"
+  },
+  {
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "answer": "minggu"
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xuésheng",
+    "answer": "murid"
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "answer": "belajar"
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "answer": "sekolah"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "answer": "satu"
+  },
+  {
+    "hanzi": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "answer": "sedikit"
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "answer": "pakaian"
+  },
+  {
+    "hanzi": "医生",
+    "pinyin": "yīshēng",
+    "answer": "dokter"
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "yīyuàn",
+    "answer": "rumah sakit"
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "answer": "kursi"
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "answer": "ada, mempunyai"
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "answer": "bulan"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "answer": "sampai jumpa"
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "answer": "berada di"
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "answer": "bagaimana"
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "answer": "bagaimana, seperti apa"
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "answer": "ini"
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "answer": "Tiongkok"
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "answer": "tengah hari"
+  },
+  {
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "answer": "tinggal"
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "answer": "meja"
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "zì",
+    "answer": "huruf"
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "answer": "kemarin"
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "answer": "melakukan, membuat"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "answer": "duduk, naik kendaraan"
+  }
 ]
